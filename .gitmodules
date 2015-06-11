@@ -1,0 +1,15 @@
+[submodule "ptu_laser_assembler"]
+	path = ptu_laser_assembler
+	url = git@github.com:MobileRobotics-Ulaval/ptu_laser_assembler.git
+[submodule "pointmatcher-ros"]
+	path = pointmatcher-ros
+	url = git@github.com:MobileRobotics-Ulaval/pointmatcher-ros.git
+[submodule "teleop_twist_joy"]
+	path = teleop_twist_joy
+	url = git@github.com:MobileRobotics-Ulaval/teleop_twist_joy.git
+[submodule "velodyne"]
+	path = velodyne
+	url = git@github.com:MobileRobotics-Ulaval/velodyne.git
+[submodule "um6"]
+	path = um6
+	url = git@github.com:MobileRobotics-Ulaval/um6.git
